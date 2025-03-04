@@ -5,12 +5,12 @@
 1. **Клонируйте репозиторий проекта**:  
    Откройте терминал и выполните команду:
 
-   `git clone https://github.com/USERNAME/REPO_NAME.git`
+   `git clone https://github.com/SultanKhassenov/guess_number_test_task.git`
 
 
 2. **Перейдите в папку проекта**:
 
-   `cd REPO_NAME`
+   `cd guess_number_test_task.git`
 
 
 3. **Установите зависимости**:
